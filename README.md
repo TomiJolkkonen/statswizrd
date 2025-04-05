@@ -1,2 +1,2 @@
 # statswizrd
-data anlytics of hockey, soccer, baseball
+data analytics of hockey, soccer, baseball
